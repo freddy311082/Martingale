@@ -1,7 +1,7 @@
 from abc import ABC, abstractmethod
 from math import exp, sqrt
 
-from martingale.finance.instruments import Pricer
+from finance.instruments import Pricer
 from enum import Enum
 
 
